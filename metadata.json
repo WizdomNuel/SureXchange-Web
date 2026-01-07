@@ -1,0 +1,8 @@
+
+{
+  "name": "SureXchange - Premium Currency Services",
+  "description": "A modern, reliable money exchange platform for converting USD, GBP, EUR, and CNY to Naira, with global bill payment capabilities.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
